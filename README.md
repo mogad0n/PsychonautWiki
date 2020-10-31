@@ -1,0 +1,1 @@
+Queries the Psychonautwiki api
